@@ -60,7 +60,7 @@ The dashboard helps identify:
 
 ## 🖼️ Dashboard Preview
 
-![AI Job Market Analysis Dashboard](dashboard.png)
+![AI Job Market Analysis Dashboard](update_enhanced.png)
 
 ## 🚀 Project Outcome
 
